@@ -44,19 +44,33 @@ Los casos esenciales (ver `pruebas/PlanPruebas.docx`):
 
 ## Estructura del repositorio
 /Sistema_registro_usuarios
+
 ├── README.md
+
 ├── requerimientos/
+
 │ ├── DRS_v1.docx
+
 │ └── DRS_v2.docx
+
 ├── pruebas/
+
 │ └── PlanPruebas.docx
+
 ├── mantenimiento/
+
 │ └── Propuesta_Mantenimiento.md
+
 ├── investigacion/
+
 │ └── Uso_de_Markdown.md
+
 └── evidencias/
+
 ├── historial_commits.png
+
 ├── versionado_docs.png
+
 └── estructura_repo.png
 
 ---
