@@ -42,7 +42,7 @@ Los casos esenciales (ver `pruebas/PlanPruebas.docx`):
 2. Registro con email duplicado — mostrar error y no crear cuenta.  
 3. Inicio de sesión con credenciales incorrectas — 401 y bloqueo tras 5 intentos.
 
- ## Estructura del repositorio
+
 /Sistema_registro_usuarios
 
 ├── README.md
@@ -74,7 +74,7 @@ Los casos esenciales (ver `pruebas/PlanPruebas.docx`):
 └── estructura_repo.png
 
 
-## Documentos principales
+## Referencias principales
 - **DRS_v1**: `requerimientos/DRS_v1.docx`  
 - **DRS_v2**: `requerimientos/DRS_v2.docx`  
 - **Plan de pruebas**: `pruebas/PlanPruebas.docx`  
